@@ -3,17 +3,17 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "co.uk.gsoftsolutions.hello-world"
-        version   = "1.0.1">
+        id        = "com.gsoft.betdarmobile"
+        version   = "1.0.11">
 
-    <name>Hello World</name>
+    <name>BetdarMobile</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Champion Tipster League
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
+    <author href="http://gsoftsolutions.co.uk" email="support@gsoftsolutions.co.uk">
+        GSoft
     </author>
 
     <!--
